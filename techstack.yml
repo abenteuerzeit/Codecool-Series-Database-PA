@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/Codecool-Series-Database
 report_id: d4ea87fee9702c788f62570236da8618
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:22:25+00:00'
+timestamp: '2024-01-05T08:48:55+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: development
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/abenteuerzeit/Codecool-Series-Database
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/Codecool-Series-Database
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/abenteuerzeit/Codecool-Series-Database
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -44,7 +48,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: PA/data/dump_1000_shows/codecool_public_shows.sql
+  detection_source_url: https://github.com/abenteuerzeit/Codecool-Series-Database/blob/development/PA/data/db_schema/01_create_schema.sql
+  detection_source: PA/data/db_schema/01_create_schema.sql
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-06-29 16:11:30.000000000 Z
 - name: Git
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/Codecool-Series-Database
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -65,4 +71,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/abenteuerzeit/Codecool-Series-Database
   detection_source: Repo Metadata
